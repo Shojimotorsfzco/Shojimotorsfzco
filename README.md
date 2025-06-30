@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🎮 AI GamePilot – Self-Learning Game Intelligence
 
-<!--
-**Shojimotorsfzco/Shojimotorsfzco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## GitHub Account Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub Account:** Shojimotorsfzco  
+- **Username:** shojimotorsfzco  
+- **Email:** info@shojimotorsfz.co  
+- **URL:** [github.com/Shojimotorsfzco](https://github.com/Shojimotorsfzco)
+
+---
+
+## 🧠 Project Description
+
+This repository is the foundation for building an **automatic gameplay system** that mimics human gameplay with intelligence, emotion, and adaptability.
+
+### Key Objectives:
+
+- 🕹️ **Play games across multiple genres** without manual scripting  
+- 🧠 **Learn and adapt** like a real human through gameplay experience  
+- 😐 **Understand and simulate emotions** like stress, satisfaction, and boredom  
+- 🔁 **Self-learning loop** that improves performance autonomously
+
+---
+
+## 🛠 Technology Stack
+
+- **Languages:** Python, C++, GDScript  
+- **Frameworks:** Unity, Godot, PyTorch, OpenAI  
+- **Modules:** Speech recognition, emotion detection, reinforcement learning  
+- **Tools:** Docker, Ngrok, Whisper, GPT APIs
+
+---
+
+## 💼 Partnership & Support
+
+Anyone who contributes meaningfully to this project will be **financially compensated**, and will have a **share in any future success or commercialization**.
+
+No vague promises. Transparent collaboration.
+
+---
+
+## 📬 Contact
+
+- **Email:** info@shojimotorsfz.co  
+- **GitHub:** [github.com/Shojimotorsfzco](https://github.com/Shojimotorsfzco)
+
+---
+
+> Building the future of gameplay automation. Human-style. Self-taught. Emotionally aware.
